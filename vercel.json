@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://kinkstr.net/$1"
+ }
+  ]
+}
